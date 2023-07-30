@@ -18,5 +18,11 @@ export const TASKS: task[] = [
         text: "Writing",
         day: "Wednesday",
         reminder: true
+    },
+    {
+        id: "04",
+        text: "Note taking",
+        day: "Thurday",
+        reminder: true
     }
 ]

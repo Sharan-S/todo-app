@@ -1,5 +1,5 @@
 import { Component, Input } from '@angular/core';
-import { task } from 'src/task';
+import { task } from '../../../task';
 import { faTimes } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
